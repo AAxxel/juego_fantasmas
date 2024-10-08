@@ -1,0 +1,5 @@
+Nombre: 1
+Edad: 21
+Contraseña: 1
+Nombre de usuario: 1
+Número de cuenta: 1
