@@ -13,6 +13,7 @@ opcion_menu_principal = ''
 opcion_menu_sesion = ''
 tablero = ''
 usuario_creado = False
+otravariable = 0
 
 llaveConfig, respuesta, buenoLimite, maloLimite, iterador, iterador2, llaveConfig2 = 1, 0, 0, 0, 0, 0, 1
 
