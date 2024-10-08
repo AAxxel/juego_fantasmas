@@ -858,7 +858,8 @@ while menu_principal == True:
                            
                             if totalFantasma == 0:
                                 
-                                print("===========FELICIDADES! Ganador: JUGADOR " + local +  "============ ")
+                                print("===========¡FELICIDADES! Ganador: JUGADOR " + local +  "============ ")
+                                print("===========¡¡¡Gracias por Jugar!!!===========")
                                 ganador = local
                                 perdedor = invitado
                                 llave = 1
